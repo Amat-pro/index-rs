@@ -9,6 +9,7 @@ mod tests {
         println!("hello world!")
     }
 
+    // 分词
     #[test]
     fn test_chinese() {
         // 默认词典
